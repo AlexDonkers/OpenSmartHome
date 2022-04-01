@@ -1,6 +1,6 @@
 # OpenSmartHome
 
-The OpenSmartHome as used in our LDAC2021 paper. It is based on earlier work of <a href="http://doi.org/10.5281/zenodo.1244602">Schneider and Rasmussen</a>.
+The OpenSmartHome as used in our LDAC2021 paper. It is based on earlier work of <a href="http://doi.org/10.5281/zenodo.1244602">Schneider, Rasmussen, Pauwels, Bonsma and Oraskari</a>.
 
 Find our LDAC2021 paper <a href="http://linkedbuildingdata.net/ldac2021/files/papers/CIB_W78_2021_paper_38.pdf">here</a>. Feel free to use and edit the data in this repository. If you do so, please cite
 
